@@ -5,7 +5,7 @@ Enjoy The beautiful Graphics and benchmark the framerate
 
 Rendering Api:Directx 10/11
 
-**Downloads? Scroll Down**
+# **Downloads? Scroll Down**
 
 # Important
 Don't try on too old cpu/gpus that can cause problems to your pc. 
