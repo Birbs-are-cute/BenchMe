@@ -39,6 +39,6 @@ Rendering Api:Directx 10/11
 
 # Downloads:
 
-Beta 0.1:
+Beta 0.1:https://github.com/Birbs-are-cute/BenchMe/releases
 
 Thans For Using BenchMe
