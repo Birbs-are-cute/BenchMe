@@ -14,7 +14,7 @@ Creator will not be responsible for any problem due to old cpu/gpus
 # Overview[Ignore fps :") low end pc high settings]
 ![Bencme](https://user-images.githubusercontent.com/83266075/184581616-e43e5993-cde4-4a76-9d09-94fa44f9a08e.png)
 
-# System Requirments-----------------------------------------
+# System Requirments :O
 **Minimum System Requirments (for default preset at least you will get 20 fps)**
 
 Ram:4gb
