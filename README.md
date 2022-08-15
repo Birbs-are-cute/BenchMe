@@ -37,7 +37,6 @@ Gpu:Gtx 1050/Gtx1080/Gtx 1650/Rtx 20/Rtx 30
 Rendering Api:Directx 10/11
 
 # Downloads:
+Beta 0.1:https://github.com/Birbs-are-cute/BenchMe/releases/tag/0.1
 
-Beta 0.1:https://github.com/Birbs-are-cute/BenchMe/releases
-
-Thans For Using BenchMe
+Thanks For Using BenchMe
